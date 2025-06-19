@@ -125,7 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **LinkedIn**: [linkedin.com/in/diegobroetto](https://linkedin.com/in/diegobroetto)
 - **Medium**: [Follow the article series](#) (link to be updated)
-- **Email**: [diego.broetto@example.com](mailto:diego.broetto@example.com)
 
 ---
 
