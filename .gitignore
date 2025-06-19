@@ -1,0 +1,10 @@
+
+# Terraform providers (specific for large files)
+terraform/environments/**/.terraform/providers/
+**/terraform-provider-*
+**/.terraform/providers/registry.terraform.io/
+.terraform/providers/
+
+# Large terraform binaries
+terraform-provider-aws_*
+terraform-provider-*_x*
